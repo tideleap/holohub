@@ -1,2 +1,0 @@
-# holohub
-holohub
